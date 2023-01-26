@@ -1,3 +1,10 @@
+- [逻辑功能的仿真与验证](#逻辑功能的仿真与验证)
+  - [例：2选1数据选择器的测试模块](#例2选1数据选择器的测试模块)
+  - [测试激励块(TB)与设计块(Design Block)之间的关系](#测试激励块tb与设计块design-block之间的关系)
+  - [仿真过程简介](#仿真过程简介)
+  - [ModelSim仿真软件的使用](#modelsim仿真软件的使用)
+
+
 # 逻辑功能的仿真与验证
 
 HDL产生的最初动因就是为了能够模拟硬件系统，可以分析系统的性能，验证其功能是否正确。
@@ -98,3 +105,16 @@ endmodule
 ![](https://raw.githubusercontent.com/timerring/picgo/master/picbed/image-20230126095115577.png)
 
 ![](https://raw.githubusercontent.com/timerring/picgo/master/picbed/image-20230126095129330.png)
+
+
+
+参考文献：
+
+1. Verilog HDL与FPGA数字系统设计，罗杰，机械工业出版社，2015年04月
+2. Verilog HDL与CPLD/FPGA项目开发教程(第2版), 聂章龙, 机械工业出版社, 2015年12月
+3. Verilog HDL数字设计与综合(第2版), Samir Palnitkar著，夏宇闻等译, 电子工业出版社, 2015年08月
+4. Verilog HDL入门(第3版), J. BHASKER 著 夏宇闻甘伟 译, 北京航空航天大学出版社, 2019年03月
+
+
+
+[返回首页](https://github.com/timerring/hardware-tutorial)

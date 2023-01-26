@@ -1,3 +1,28 @@
+- [硬件描述语言简介](#硬件描述语言简介)
+  - [(1)  VHDL的起源与发展](#1--vhdl的起源与发展)
+  - [(2)  Verilog HDL的起源与发展](#2--verilog-hdl的起源与发展)
+  - [(3)  两种语言的比较](#3--两种语言的比较)
+      - [能力（capability）](#能力capability)
+      - [数据类型（data type）](#数据类型data-type)
+      - [易学性（easiest to learn）](#易学性easiest-to-learn)
+      - [效  率](#效--率)
+  - [（4）VHDL语言的新进展](#4vhdl语言的新进展)
+  - [（5）Verilog HDL语言的新进展](#5verilog-hdl语言的新进展)
+  - [可编程逻辑器件及其发展趋势](#可编程逻辑器件及其发展趋势)
+  - [PLD的集成度分类](#pld的集成度分类)
+  - [四种SPLD器件的区别](#四种spld器件的区别)
+  - [复杂PLD(CPLD与FPGA)](#复杂pldcpld与fpga)
+  - [PLD的基本原理与结构](#pld的基本原理与结构)
+  - [CPLD的原理与结构](#cpld的原理与结构)
+  - [FPGA的原理与结构](#fpga的原理与结构)
+  - [查找表原理](#查找表原理)
+  - [FPGA器件的内部结构示意图](#fpga器件的内部结构示意图)
+  - [典型FPGA的结构](#典型fpga的结构)
+  - [Altera的Cyclone IV器件结构](#altera的cyclone-iv器件结构)
+  - [按编程特点分类](#按编程特点分类)
+  - [按编程元件和编程工艺分类](#按编程元件和编程工艺分类)
+
+
 # 硬件描述语言简介
 
 硬件描述语言HDL(Hardware Description Language )  类似于高级程序设计语言. 它是一种以文本形式来描述数字系统硬件的结构和行为的语言, 用它可以表示逻辑电路图、逻辑表达式，复杂数字逻辑系统的逻辑功能。用HDL编写设计说明文档易于存储和修改，并能被计算机识别和处理.
@@ -204,3 +229,16 @@ PLD器件按照可以编程的次数可以分为两类：
 **易失性器件**
 
 + 静态存储器（SRAM）结构，如多数FPGA。 
+
+
+
+参考文献：
+
+1. Verilog HDL与FPGA数字系统设计，罗杰，机械工业出版社，2015年04月
+2. Verilog HDL与CPLD/FPGA项目开发教程(第2版), 聂章龙, 机械工业出版社, 2015年12月
+3. Verilog HDL数字设计与综合(第2版), Samir Palnitkar著，夏宇闻等译, 电子工业出版社, 2015年08月
+4. Verilog HDL入门(第3版), J. BHASKER 著 夏宇闻甘伟 译, 北京航空航天大学出版社, 2019年03月
+
+
+
+[返回首页](https://github.com/timerring/hardware-tutorial)

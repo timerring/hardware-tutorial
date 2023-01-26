@@ -1,3 +1,10 @@
+- [组合逻辑电路的设计](#组合逻辑电路的设计)
+  - [组合逻辑电路的设计步骤](#组合逻辑电路的设计步骤)
+  - [组合逻辑电路的设计举例](#组合逻辑电路的设计举例)
+    - [例1](#例1)
+    - [例2](#例2)
+
+
 # 组合逻辑电路的设计
 
 根据实际逻辑问题，求出所要求逻辑功能的最简单逻辑电路。
@@ -107,9 +114,15 @@ R=C
 
 ![](https://raw.githubusercontent.com/timerring/picgo/master/picbed/image-20230113112427909.png)
 
+
+
 参考文献：
 
 1. Verilog HDL与FPGA数字系统设计，罗杰，机械工业出版社，2015年04月
 2. Verilog HDL与CPLD/FPGA项目开发教程(第2版), 聂章龙, 机械工业出版社, 2015年12月
 3. Verilog HDL数字设计与综合(第2版), Samir Palnitkar著，夏宇闻等译, 电子工业出版社, 2015年08月
 4. Verilog HDL入门(第3版), J. BHASKER 著 夏宇闻甘伟 译, 北京航空航天大学出版社, 2019年03月
+
+
+
+[返回首页](https://github.com/timerring/hardware-tutorial)

@@ -1,4 +1,11 @@
-# FPGA：Verilog HDL程序的基本结构
+- [Verilog HDL程序的基本结构](#verilog-hdl程序的基本结构)
+  - [简单Verilog HDL程序实例](#简单verilog-hdl程序实例)
+    - [半加器程序实例](#半加器程序实例)
+    - [2选1数据选择器的程序实例](#2选1数据选择器的程序实例)
+  - [Verilog HDL程序的基本结构](#verilog-hdl程序的基本结构-1)
+
+
+# Verilog HDL程序的基本结构
 
 ## 简单Verilog HDL程序实例
 
@@ -141,3 +148,16 @@ endmodule
 
 + initial 语句
 + always 语句
+
+
+
+参考文献：
+
+1. Verilog HDL与FPGA数字系统设计，罗杰，机械工业出版社，2015年04月
+2. Verilog HDL与CPLD/FPGA项目开发教程(第2版), 聂章龙, 机械工业出版社, 2015年12月
+3. Verilog HDL数字设计与综合(第2版), Samir Palnitkar著，夏宇闻等译, 电子工业出版社, 2015年08月
+4. Verilog HDL入门(第3版), J. BHASKER 著 夏宇闻甘伟 译, 北京航空航天大学出版社, 2019年03月
+
+
+
+[返回首页](https://github.com/timerring/hardware-tutorial)
