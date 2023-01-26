@@ -1,4 +1,4 @@
-- [ARM embedded assembly and mutual call between C and ARM assembly](#arm-embedded-assembly-and-mutual-call-between-c-and-arm-assembly)
+- [ARM内嵌汇编及C和ARM汇编相互调用](#arm内嵌汇编及c和arm汇编相互调用)
   - [内嵌汇编](#内嵌汇编)
     - [内嵌汇编指令的语法格式](#内嵌汇编指令的语法格式)
     - [内嵌汇编注意事项](#内嵌汇编注意事项)
@@ -9,7 +9,7 @@
     - [在汇编程序中调用C语言程序](#在汇编程序中调用c语言程序)
 
 
-# ARM embedded assembly and mutual call between C and ARM assembly
+# ARM内嵌汇编及C和ARM汇编相互调用
 
 ## 内嵌汇编
 
