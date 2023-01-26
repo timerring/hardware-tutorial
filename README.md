@@ -4,6 +4,8 @@
 
 ### ARM
 
+从嵌入式的基础概述讲起，引入ARM微处理器概述与编程模型，再到具体深入讲解ARM寻址方式及指令系统。此外还有嵌入式程序设计基础实践，内部可编程模块，接口技术等应用。
+
 1. [嵌入式系统概述及特点](https://github.com/timerring/hardware-tutorial/blob/main/ARM-tutorial/A1%20-%20Embedded%20system%20overview%20and%20characteristics.md)
 2. [嵌入式系统的开发概述](https://github.com/timerring/hardware-tutorial/blob/main/ARM-tutorial/A2%20-%20Overview%20of%20Embedded%20System%20Development.md)
 3. [嵌入式系统硬件概述](https://github.com/timerring/hardware-tutorial/blob/main/ARM-tutorial/A3%20-%20Embedded%20Systems%20Hardware%20Overview.md)
@@ -53,6 +55,8 @@
 
 ### FPGA-tutorial
 
+从逻辑代数等基础知识讲起，结合Verilog HDL语言学习与仿真，主要对组合逻辑电路与时序逻辑电路进行分析与设计，对状态机FSM进行剖析与建模。
+
 1. [数字电路简介](https://github.com/timerring/hardware-tutorial/blob/main/FPGA-tutorial/F1%20-%20Introduction%20to%20Digital%20Circuits.md)
 
 2. [逻辑运算及逻辑门](https://github.com/timerring/hardware-tutorial/blob/main/FPGA-tutorial/F2%20-%20Logic%20Operations%20and%20Logic%20Gates.md)
@@ -87,5 +91,35 @@
 
 
 
+### 参考书籍
+
++ 孟祥莲．嵌入式系统原理及应用教程（第2版）[M]．北京：清华大学出版社，2017.
++ 杨宗德.   嵌入式ARM系统原理与实例开发 [M]．北京：北京大学出版社，2007.
++ S3C2410 Datasheet
++ Verilog HDL与FPGA数字系统设计，罗杰，机械工业出版社，2015年04月
++ Verilog HDL与CPLD/FPGA项目开发教程(第2版), 聂章龙, 机械工业出版社, 2015年12月
++ Verilog HDL数字设计与综合(第2版), Samir Palnitkar著，夏宇闻等译, 电子工业出版社, 2015年08月
++ Verilog HDL入门(第3版), J. BHASKER 著 夏宇闻甘伟 译, 北京航空航天大学出版社, 2019年03月
+
+### ChangeLog
+
+- v1.2完成初版 coming soon
+- v1.1完成ARM 230126
+- v1.0基础结构 230124
+
+## 项目目录
+
+coming soon...
+
+## 关注更多
+
+<div align=center>
+<p>扫描下方二维码关注公众号：AIShareLab</p>
+<img src="resources/qrcode.jpg" width = "180" height = "180">
+</div>
+
+&emsp;&emsp;AIShareLab，一个关注CV、DL、区块链、Web开发、硬件开发、5G通信等领域的社群，微信搜索公众号AIShareLab 一起交流更多相关知识，前沿算法，Paper解读，项目源码，面经总结。﻿
 
 
+## LICENSE
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可。
