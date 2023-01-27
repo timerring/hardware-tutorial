@@ -118,7 +118,7 @@ coming soon...
 <img src="resources/qrcode.jpg" width = "180" height = "180">
 </div>
 
-&emsp;&emsp;AIShareLab，一个关注CV、DL、区块链、Web开发、硬件开发、5G通信等领域的社群，微信搜索公众号AIShareLab 一起交流更多相关知识，前沿算法，Paper解读，项目源码，面经总结。﻿
+&emsp;&emsp;AIShareLab，一个关注CV、AI、区块链、Web开发、硬件开发、5G通信等领域的热“AI”分享的社群，微信搜索公众号AIShareLab 一起交流更多相关知识，前沿算法，Paper解读，项目源码，面经总结。﻿
 
 
 ## LICENSE
