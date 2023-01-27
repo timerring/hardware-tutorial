@@ -75,7 +75,7 @@
 
 9. [逻辑功能的仿真与验证](https://github.com/timerring/hardware-tutorial/blob/main/FPGA-tutorial/F9%20-%20Simulation%20and%20Verification%20of%20Logic%20Functions.md)
 
-
+10. [Verilog HDL仿真常用命令](https://github.com/timerring/hardware-tutorial/blob/main/FPGA-tutorial/F10%20-%20Common%20Commands%20for%20Verilog%20HDL%20Simulation.md)
 
 
 
