@@ -77,7 +77,7 @@
 
 10. [Verilog HDL仿真常用命令](https://github.com/timerring/hardware-tutorial/blob/main/FPGA-tutorial/F10%20-%20Common%20Commands%20for%20Verilog%20HDL%20Simulation.md)
 
-
+11. [Verilog HDL基本语法规则](https://github.com/timerring/hardware-tutorial/blob/main/FPGA-tutorial/F11%20-%20Verilog%20HDL%20Basic%20Grammar%20Rules.md)
 
 ### MCU-C51
 
