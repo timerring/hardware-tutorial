@@ -58,26 +58,17 @@
 从逻辑代数等基础知识讲起，结合Verilog HDL语言学习与仿真，主要对组合逻辑电路与时序逻辑电路进行分析与设计，对状态机FSM进行剖析与建模。
 
 1. [数字电路简介](https://github.com/timerring/hardware-tutorial/blob/main/FPGA-tutorial/F1%20-%20Introduction%20to%20Digital%20Circuits.md)
-
 2. [逻辑运算及逻辑门](https://github.com/timerring/hardware-tutorial/blob/main/FPGA-tutorial/F2%20-%20Logic%20Operations%20and%20Logic%20Gates.md)
-
 3. [逻辑代数的基本公式和规则](https://github.com/timerring/hardware-tutorial/blob/main/FPGA-tutorial/F3%20-%20Basic%20Formulas%20and%20Rules%20of%20Logical%20Algebra.md)
-
 4. [逻辑函数的代数法化简](https://github.com/timerring/hardware-tutorial/blob/main/FPGA-tutorial/F4%20-%20Algebraic%20Simplification%20of%20Logical%20Functions.md)
-
 5. [逻辑函数的卡诺图化简法](https://github.com/timerring/hardware-tutorial/blob/main/FPGA-tutorial/F5%20-%20Karnaugh%20Map%20Simplification%20Method%20of%20Logic%20Function.md)
-
 6. [组合逻辑电路的设计](https://github.com/timerring/hardware-tutorial/blob/main/FPGA-tutorial/F6%20-%20Design%20of%20Combinational%20Logic%20Circuits.md)
-
 7. [硬件描述语言简介](https://github.com/timerring/hardware-tutorial/blob/main/FPGA-tutorial/F7%20-%20Introduction%20to%20Hardware%20Description%20Languages.md)
-
 8. [Verilog HDL程序的基本结构](https://github.com/timerring/hardware-tutorial/blob/main/FPGA-tutorial/F8%20-%20Basic%20Structure%20of%20Verilog%20HDL%20Program.md)
-
 9. [逻辑功能的仿真与验证](https://github.com/timerring/hardware-tutorial/blob/main/FPGA-tutorial/F9%20-%20Simulation%20and%20Verification%20of%20Logic%20Functions.md)
-
 10. [Verilog HDL仿真常用命令](https://github.com/timerring/hardware-tutorial/blob/main/FPGA-tutorial/F10%20-%20Common%20Commands%20for%20Verilog%20HDL%20Simulation.md)
-
 11. [Verilog HDL基本语法规则](https://github.com/timerring/hardware-tutorial/blob/main/FPGA-tutorial/F11%20-%20Verilog%20HDL%20Basic%20Grammar%20Rules.md)
+11. [Verilog HDL门级建模](https://github.com/timerring/hardware-tutorial/blob/main/FPGA-tutorial/F12%20-%20Verilog%20HDL%20Gate-level%20Modeling.md)
 
 ### MCU-C51
 
@@ -94,7 +85,7 @@
 ### 参考书籍
 
 + 孟祥莲．嵌入式系统原理及应用教程（第2版）[M]．北京：清华大学出版社，2017.
-+ 杨宗德.   嵌入式ARM系统原理与实例开发 [M]．北京：北京大学出版社，2007.
++ 杨宗德．嵌入式ARM系统原理与实例开发 [M]．北京：北京大学出版社，2007.
 + S3C2410 Datasheet
 + Verilog HDL与FPGA数字系统设计，罗杰，机械工业出版社，2015年04月
 + Verilog HDL与CPLD/FPGA项目开发教程(第2版), 聂章龙, 机械工业出版社, 2015年12月
