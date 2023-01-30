@@ -85,13 +85,13 @@
 
 ### 参考书籍
 
-+ 孟祥莲．嵌入式系统原理及应用教程（第2版）[M]．北京：清华大学出版社，2017.
-+ 杨宗德．嵌入式ARM系统原理与实例开发 [M]．北京：北京大学出版社，2007.
++ [孟祥莲．嵌入式系统原理及应用教程（第2版）[M]．北京：清华大学出版社，2017.](https://github.com/timerring/hardware-tutorial/blob/main/reference/Embedded%20System%20Principles%20and%20Application%20Tutorial.pdf)
++ [杨宗德．嵌入式ARM系统原理与实例开发 [M]．北京：北京大学出版社，2007.](https://github.com/timerring/hardware-tutorial/blob/main/reference/Embedded%20ARM%20System%20Principle%20and%20Example%20Development.pdf)
 + S3C2410 Datasheet
-+ Verilog HDL与FPGA数字系统设计，罗杰，机械工业出版社，2015年04月
-+ Verilog HDL与CPLD/FPGA项目开发教程(第2版), 聂章龙, 机械工业出版社, 2015年12月
-+ Verilog HDL数字设计与综合(第2版), Samir Palnitkar著，夏宇闻等译, 电子工业出版社, 2015年08月
-+ Verilog HDL入门(第3版), J. BHASKER 著 夏宇闻甘伟 译, 北京航空航天大学出版社, 2019年03月
++ [Verilog HDL与FPGA数字系统设计，罗杰，机械工业出版社，2015年04月](https://github.com/timerring/hardware-tutorial/blob/main/reference/VERILOG%20HDL%20and%20FPGA%20Digital%20System%20Design.pdf)
++ [Verilog HDL与CPLD/FPGA项目开发教程(第2版), 聂章龙, 机械工业出版社, 2015年12月](https://github.com/timerring/hardware-tutorial/blob/main/reference/Verilog%20HDL%20and%20CPLDFPGA%20Project%20Development%20Tutorial.pdf)
++ [Verilog HDL数字设计与综合(第2版), Samir Palnitkar著，夏宇闻等译, 电子工业出版社, 2015年08月](https://github.com/timerring/hardware-tutorial/blob/main/reference/Verilog%20HDL%20Digital%20Design%20and%20Synthesis.pdf)
++ [Verilog HDL入门(第3版), J. BHASKER 著 夏宇闻甘伟 译, 北京航空航天大学出版社, 2019年03月](https://github.com/timerring/hardware-tutorial/blob/main/reference/Getting%20Started%20with%20Verilog%20HDL.pdf)
 
 ### ChangeLog
 
