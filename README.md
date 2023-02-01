@@ -70,7 +70,8 @@
 11. [Verilog HDL基本语法规则](https://github.com/timerring/hardware-tutorial/blob/main/FPGA-tutorial/F11%20-%20Verilog%20HDL%20Basic%20Grammar%20Rules.md)
 12. [Verilog HDL门级建模](https://github.com/timerring/hardware-tutorial/blob/main/FPGA-tutorial/F12%20-%20Verilog%20HDL%20Gate-level%20Modeling.md)
 13. [Verilog HDL数据流建模与运算符](https://github.com/timerring/hardware-tutorial/blob/main/FPGA-tutorial/F13%20-%20Verilog%20HDL%20Data%20Flow%20Modeling%20and%20Operators.md)
-11. [Verilog HDL行为级建模](https://github.com/timerring/hardware-tutorial/blob/main/FPGA-tutorial/F14%20-%20Verilog%20HDL%20Behavior-level%20Modeling.md)
+14. [Verilog HDL行为级建模](https://github.com/timerring/hardware-tutorial/blob/main/FPGA-tutorial/F14%20-%20Verilog%20HDL%20Behavior-level%20Modeling.md)
+11. [分层次的电路设计方法](https://github.com/timerring/hardware-tutorial/blob/main/FPGA-tutorial/F15%20-%20Hierarchical%20Approach%20to%20Circuit%20Design.md)
 
 ### MCU-C51
 
