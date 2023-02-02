@@ -23,7 +23,7 @@
 |                                               | 2.7 [ARM流水线技术](https://github.com/timerring/hardware-tutorial/blob/main/ARM-tutorial/A12%20-%20ARM%20pipeline%20technology.md) |
 |                                               | 2.8 [ARM存储器组织、协处理器及片上总线](https://github.com/timerring/hardware-tutorial/blob/main/ARM-tutorial/A13%20-%20ARM%20memory%20organization%2C%20coprocessor%20and%20on-chip%20bus.md) |
 |                                               | 2.9 [ARM的IO访问与芯片选择](https://github.com/timerring/hardware-tutorial/blob/main/ARM-tutorial/A14%20-%20ARM%20IO%20access%20and%20chip%20selection.md) |
-|                                               |                                                              |
+| &emsp;                                        | &emsp;                                                       |
 | chapter3 - ARM寻址方式及指令系统              | 3.1 [ARM指令集分类及编码](https://github.com/timerring/hardware-tutorial/blob/main/ARM-tutorial/A15%20-%20ARM%20instruction%20set%20classification%20and%20encoding.md) |
 |                                               | 3.2 [ARM立即寻址与寄存器寻址](https://github.com/timerring/hardware-tutorial/blob/main/ARM-tutorial/A16%20-%20ARM%20immediate%20addressing%20and%20register%20addressing.md) |
 |                                               | 3.3 [ARM间接寻址、变址寻址与多寄存器寻址](https://github.com/timerring/hardware-tutorial/blob/main/ARM-tutorial/A17%20-%20ARM%20indirect%20addressing%2C%20indexed%20addressing%20and%20multiple%20register%20addressing.md) |
@@ -35,7 +35,7 @@
 |                                               | 3.9 [ARM转移指令（分支指令）](https://github.com/timerring/hardware-tutorial/blob/main/ARM-tutorial/A23%20-%20ARM%20transfer%20instruction%20(branch%20instruction).md) |
 |                                               | 3.10 [ARM异常中断指令SWI、BKPT、CLZ详解](https://github.com/timerring/hardware-tutorial/blob/main/ARM-tutorial/A24%20-%20Detailed%20Explanation%20of%20ARM%20Abnormal%20Interrupt%20Instructions%20SWI%2C%20BKPT%2C%20CLZ.md) |
 |                                               | 3.11 [ARM协处理器指令总结](https://github.com/timerring/hardware-tutorial/blob/main/ARM-tutorial/A25%20-%20Summary%20of%20ARM%20coprocessor%20instructions.md) |
-|                                               |                                                              |
+| &emsp;                                        | &emsp;                                                       |
 | chapter4 - 嵌入式系统程序设计                 | 4.1 [ARM嵌入式系统开发流程概述](https://github.com/timerring/hardware-tutorial/blob/main/ARM-tutorial/A26%20-%20Overview%20of%20ARM%20Embedded%20System%20Development%20Process.md) |
 |                                               | 4.2 [ARM常用开发编译软件介绍](https://github.com/timerring/hardware-tutorial/blob/main/ARM-tutorial/A27%20-%20ARM%20common%20development%20and%20compilation%20software%20introduction.md) |
 |                                               | 4.3 [ARM相关开发工具概述](https://github.com/timerring/hardware-tutorial/blob/main/ARM-tutorial/A28%20-%20Overview%20of%20ARM-related%20development%20tools.md) |
@@ -46,7 +46,7 @@
 |                                               | 4.8 [ARM汇编语言程序设计基础教程](https://github.com/timerring/hardware-tutorial/blob/main/ARM-tutorial/A33%20-%20ARM%20assembly%20language%20programming%20basic%20course.md) |
 |                                               | 4.9 [什么是ATPCS](https://github.com/timerring/hardware-tutorial/blob/main/ARM-tutorial/A34%20-%20What%20is%20ATPCS.md) |
 |                                               | 4.10 [ARM内嵌汇编及C和ARM汇编相互调用](https://github.com/timerring/hardware-tutorial/blob/main/ARM-tutorial/A35%20-%20ARM%20embedded%20assembly%20and%20mutual%20call%20between%20C%20and%20ARM%20assembly.md) |
-|                                               |                                                              |
+| &emsp;                                        | &emsp;                                                       |
 | chapter5 - 嵌入式系统内部可编程模块及接口技术 | 5.1 [S3C2410与S3C2440的区别](https://github.com/timerring/hardware-tutorial/blob/main/ARM-tutorial/A36%20-%20The%20difference%20between%20S3C2410%20and%20S3C2440.md) |
 |                                               | 5.2 [ARM最小系统设计详解](https://github.com/timerring/hardware-tutorial/blob/main/ARM-tutorial/A37%20-%20Detailed%20ARM%20minimum%20system%20design.md) |
 |                                               | 5.3 [ARM中断系统设计全解](https://github.com/timerring/hardware-tutorial/blob/main/ARM-tutorial/A38%20-%20ARM%20interrupt%20system%20design%20solution.md) |
@@ -69,18 +69,18 @@
 |                                  | 1.4 [逻辑函数的代数法化简](https://github.com/timerring/hardware-tutorial/blob/main/FPGA-tutorial/F04%20-%20Algebraic%20Simplification%20of%20Logical%20Functions.md) |
 |                                  | 1.5 [逻辑函数的卡诺图化简法](https://github.com/timerring/hardware-tutorial/blob/main/FPGA-tutorial/F05%20-%20Karnaugh%20Map%20Simplification%20Method%20of%20Logic%20Function.md) |
 |                                  | 1.6 [组合逻辑电路的设计](https://github.com/timerring/hardware-tutorial/blob/main/FPGA-tutorial/F06%20-%20Design%20of%20Combinational%20Logic%20Circuits.md) |
-|                                  |                                                              |
+| &emsp;                           | &emsp;                                                       |
 | chapter2 - Verilog HDL入门与基础 | 2.1 [硬件描述语言简介](https://github.com/timerring/hardware-tutorial/blob/main/FPGA-tutorial/F07%20-%20Introduction%20to%20Hardware%20Description%20Languages.md) |
 |                                  | 2.2 [Verilog HDL程序的基本结构](https://github.com/timerring/hardware-tutorial/blob/main/FPGA-tutorial/F08%20-%20Basic%20Structure%20of%20Verilog%20HDL%20Program.md) |
 |                                  | 2.3 [逻辑功能的仿真与验证](https://github.com/timerring/hardware-tutorial/blob/main/FPGA-tutorial/F09%20-%20Simulation%20and%20Verification%20of%20Logic%20Functions.md) |
 |                                  | 2.4 [Verilog HDL仿真常用命令](https://github.com/timerring/hardware-tutorial/blob/main/FPGA-tutorial/F10%20-%20Common%20Commands%20for%20Verilog%20HDL%20Simulation.md) |
 |                                  | 2.5 [Verilog HDL基本语法规则](https://github.com/timerring/hardware-tutorial/blob/main/FPGA-tutorial/F11%20-%20Verilog%20HDL%20Basic%20Grammar%20Rules.md) |
-|                                  |                                                              |
+| &emsp;                           | &emsp;                                                       |
 | chapter3 - 组合电路建模          | 3.1 [Verilog HDL门级建模](https://github.com/timerring/hardware-tutorial/blob/main/FPGA-tutorial/F12%20-%20Verilog%20HDL%20Gate-level%20Modeling.md) |
 |                                  | 3.2 [Verilog HDL数据流建模与运算符](https://github.com/timerring/hardware-tutorial/blob/main/FPGA-tutorial/F13%20-%20Verilog%20HDL%20Data%20Flow%20Modeling%20and%20Operators.md) |
 |                                  | 3.3 [Verilog HDL行为级建模](https://github.com/timerring/hardware-tutorial/blob/main/FPGA-tutorial/F14%20-%20Verilog%20HDL%20Behavior-level%20Modeling.md) |
 |                                  | 3.4 [分层次的电路设计方法](https://github.com/timerring/hardware-tutorial/blob/main/FPGA-tutorial/F15%20-%20Hierarchical%20Approach%20to%20Circuit%20Design.md) |
-|                                  |                                                              |
+| &emsp;                           | &emsp;                                                       |
 | chapter4 - 时序逻辑电路建模      | 4.1 [SR锁存器与D锁存器设计与建模](https://github.com/timerring/hardware-tutorial/blob/main/FPGA-tutorial/F16%20-%20SR%20Latch%20and%20D%20Latch%20Design%20and%20Modeling.md) |
 |                                  | ...                                                          |
 | chapter5 - FSM                   | COMING SOON...                                               |
