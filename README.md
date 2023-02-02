@@ -13,7 +13,7 @@
 |                                               | 1.3 [嵌入式系统硬件概述](https://github.com/timerring/hardware-tutorial/blob/main/ARM-tutorial/A03%20-%20Embedded%20Systems%20Hardware%20Overview.md) |
 |                                               | 1.4 [嵌入式系统软件架构](https://github.com/timerring/hardware-tutorial/blob/main/ARM-tutorial/A04%20-%20Embedded%20System%20Software%20Architecture.md) |
 |                                               | 1.5 [嵌入式系统的应用与发展](https://github.com/timerring/hardware-tutorial/blob/main/ARM-tutorial/A05%20-%20Application%20and%20Development%20of%20Embedded%20System.md) |
-|                                               |                                                              |
+| &emsp;                                        | &emsp;                                                       |
 | chapter2 - ARM处理器编程模型                  | 2.1 [计算机体系结构及指令集](https://github.com/timerring/hardware-tutorial/blob/main/ARM-tutorial/A06%20-%20Computer%20Architecture%20and%20Instruction%20Set.md) |
 |                                               | 2.2 [ARM体系结构详解](https://github.com/timerring/hardware-tutorial/blob/main/ARM-tutorial/A07%20-%20Detailed%20explanation%20of%20ARM%20architecture.md) |
 |                                               | 2.3 [ARM系列处理器详解与性能对比](https://github.com/timerring/hardware-tutorial/blob/main/ARM-tutorial/A08%20-%20Detailed%20explanation%20and%20performance%20comparison%20of%20ARM%20series%20processors.md) |
