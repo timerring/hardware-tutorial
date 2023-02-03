@@ -82,6 +82,7 @@
 |                                  | 3.4 [分层次的电路设计方法](https://github.com/timerring/hardware-tutorial/blob/main/FPGA-tutorial/F15%20-%20Hierarchical%20Approach%20to%20Circuit%20Design.md) |
 | &emsp;                           | &emsp;                                                       |
 | chapter4 - 时序逻辑电路建模      | 4.1 [SR锁存器与D锁存器设计与建模](https://github.com/timerring/hardware-tutorial/blob/main/FPGA-tutorial/F16%20-%20SR%20Latch%20and%20D%20Latch%20Design%20and%20Modeling.md) |
+|                                  | 4.2 [时序电路建模基础](https://github.com/timerring/hardware-tutorial/blob/main/FPGA-tutorial/F17%20-%20Fundamentals%20of%20Sequential%20Circuit%20Modeling.md) |
 |                                  | ...                                                          |
 | chapter5 - FSM                   | COMING SOON...                                               |
 
