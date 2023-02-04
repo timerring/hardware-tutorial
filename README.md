@@ -83,6 +83,7 @@
 | &emsp;                           | &emsp;                                                       |
 | chapter4 - 时序逻辑电路建模      | 4.1 [SR锁存器与D锁存器设计与建模](https://github.com/timerring/hardware-tutorial/blob/main/FPGA-tutorial/F16%20-%20SR%20Latch%20and%20D%20Latch%20Design%20and%20Modeling.md) |
 |                                  | 4.2 [时序电路建模基础](https://github.com/timerring/hardware-tutorial/blob/main/FPGA-tutorial/F17%20-%20Fundamentals%20of%20Sequential%20Circuit%20Modeling.md) |
+|                                  | 4.3 [D触发器 (D-FF)详解](https://github.com/timerring/hardware-tutorial/blob/main/FPGA-tutorial/F18%20-%20Detailed%20Explanation%20of%20D%20Flip-Flop%20(D-FF).md) |
 |                                  | ...                                                          |
 | chapter5 - FSM                   | COMING SOON...                                               |
 
