@@ -86,6 +86,7 @@
 |                                  | 4.3 [D触发器 (D-FF)详解](https://github.com/timerring/hardware-tutorial/blob/main/FPGA-tutorial/F18%20-%20Detailed%20Explanation%20of%20D%20Flip-Flop%20(D-FF).md) |
 |                                  | 4.4 [寄存器和移位寄存器分析与建模](https://github.com/timerring/hardware-tutorial/blob/main/FPGA-tutorial/F19%20-%20Register%20and%20Shift%20Register%20Analysis%20and%20Modeling.md) |
 |                                  | 4.5 [同步计数器分析与建模](https://github.com/timerring/hardware-tutorial/blob/main/FPGA-tutorial/F20%20-%20Synchronous%20Counter%20Analysis%20and%20Modeling.md) |
+|                                  | 4.6 [Verilog HDL函数与任务的使用](https://github.com/timerring/hardware-tutorial/blob/main/FPGA-tutorial/F21%20-%20Use%20of%20Verilog%20HDL%20Functions%20and%20Tasks.md) |
 |                                  | ...                                                          |
 | chapter5 - FSM                   | COMING SOON...                                               |
 
