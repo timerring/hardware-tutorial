@@ -88,8 +88,10 @@
 |                                  | 4.5 [同步计数器分析与建模](https://github.com/timerring/hardware-tutorial/blob/main/FPGA-tutorial/F20%20-%20Synchronous%20Counter%20Analysis%20and%20Modeling.md) |
 |                                  | 4.6 [Verilog HDL函数与任务的使用](https://github.com/timerring/hardware-tutorial/blob/main/FPGA-tutorial/F21%20-%20Use%20of%20Verilog%20HDL%20Functions%20and%20Tasks.md) |
 |                                  | 4.7 [m序列码产生电路设计与仿真](https://github.com/timerring/hardware-tutorial/blob/main/FPGA-tutorial/F22%20-%20Design%20and%20Simulation%20of%20M-sequence%20Code%20Generation%20Circuit.md) |
-|                                  | ...                                                          |
-| chapter5 - FSM                   | COMING SOON...                                               |
+| &emsp;                           | &emsp;                                                       |
+| chapter5 - FSM                   | 5.1 [状态机的概念与设计](https://github.com/timerring/hardware-tutorial/blob/main/FPGA-tutorial/F23%20-%20State%20Machine%20Concept%20and%20Design.md) |
+|                                  | ....                                                         |
+|                                  |                                                              |
 
 ### MCU-C51
 
