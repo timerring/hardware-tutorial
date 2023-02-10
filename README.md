@@ -90,6 +90,7 @@
 |                                  | 4.7 [m序列码产生电路设计与仿真](https://github.com/timerring/hardware-tutorial/blob/main/FPGA-tutorial/F22%20-%20Design%20and%20Simulation%20of%20M-sequence%20Code%20Generation%20Circuit.md) |
 | &emsp;                           | &emsp;                                                       |
 | chapter5 - FSM                   | 5.1 [状态机的概念与设计](https://github.com/timerring/hardware-tutorial/blob/main/FPGA-tutorial/F23%20-%20State%20Machine%20Concept%20and%20Design.md) |
+|                                  | 5.2 [基于Verilog HDL的状态机描述方法](https://github.com/timerring/hardware-tutorial/blob/main/FPGA-tutorial/F24%20-%20State%20Machine%20Description%20Method%20Based%20on%20Verilog%20HDL.md) |
 |                                  | ....                                                         |
 |                                  |                                                              |
 
