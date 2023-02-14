@@ -56,6 +56,8 @@
 |                                               | 5.7 [ARM定时器](https://github.com/timerring/hardware-tutorial/blob/main/ARM-tutorial/A42%20-%20ARM%20timer.md) |
 |                                               | 5.8 [人机交互接口设计详解](https://github.com/timerring/hardware-tutorial/blob/main/ARM-tutorial/A43%20-%20Detailed%20explanation%20of%20human-computer%20interaction%20interface%20design.md) |
 |                                               | 5.9 [万字详解通信接口设计](https://github.com/timerring/hardware-tutorial/blob/main/ARM-tutorial/A44%20-%20Communication%20interface%20design.md) |
+| &emsp;                                        | &emsp;                                                       |
+| experiment                                    | 1. [简单数据搬移](https://github.com/timerring/hardware-tutorial/blob/main/ARM-tutorial/Experiment/AE01%20-%20Simple%20Data%20Movement.md) |
 
 ### FPGA-tutorial
 
