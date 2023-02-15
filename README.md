@@ -58,6 +58,7 @@
 |                                               | 5.9 [万字详解通信接口设计](https://github.com/timerring/hardware-tutorial/blob/main/ARM-tutorial/A44%20-%20Communication%20interface%20design.md) |
 | &emsp;                                        | &emsp;                                                       |
 | experiment                                    | 1. [简单数据搬移](https://github.com/timerring/hardware-tutorial/blob/main/ARM-tutorial/Experiment/AE01%20-%20Simple%20Data%20Movement.md) |
+|                                               | 2. [字符串拷贝](https://github.com/timerring/hardware-tutorial/blob/main/ARM-tutorial/Experiment/AE02%20-%20String%20Copy.md) |
 
 ### FPGA-tutorial
 
