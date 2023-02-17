@@ -60,6 +60,7 @@
 | experiment                                    | 1. [简单数据搬移](https://github.com/timerring/hardware-tutorial/blob/main/ARM-tutorial/Experiment/AE01%20-%20Simple%20Data%20Movement.md) |
 |                                               | 2. [字符串拷贝](https://github.com/timerring/hardware-tutorial/blob/main/ARM-tutorial/Experiment/AE02%20-%20String%20Copy.md) |
 |                                               | 3. [ARM处理器工作模式](https://github.com/timerring/hardware-tutorial/blob/main/ARM-tutorial/Experiment/AE03%20-%20ARM%20Processor%20Working%20Mode.md) |
+|                                               | 4. [ARM启动过程控制](https://github.com/timerring/hardware-tutorial/blob/main/ARM-tutorial/Experiment/AE04%20-%20ARM%20Boot%20Process%20Control.md) |
 
 ### FPGA-tutorial
 
