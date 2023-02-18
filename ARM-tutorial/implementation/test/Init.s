@@ -1,0 +1,8 @@
+ IMPORT Main
+ AREA Init,CODE,READONLY
+
+ ENTRY
+ LDR R0,=0x12345678
+ BL Main
+ B .
+ END
