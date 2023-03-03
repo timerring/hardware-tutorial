@@ -1,0 +1,30 @@
+nx=0:18; 
+x=3*nx+2; 
+h=[1,2,3,4]; 
+M=length(h); 
+nh=0:M-1; 
+y1=conv(x,h); 
+n01=min(nx)+min(nh); 
+n02=max(nx)+max(nh); 
+ny1=[n01:n02]; 
+subplot(321),stem(nx,x,'.');title('x(n)'); 
+subplot(322),stem(nh,h,'.');title('h(n)'); 
+subplot(312),stem(ny1,y1,'.');axis([0,30,0,600]);title('线性卷积'); 
+n=0:27; 
+x=[x,zeros(1,9)]; 
+N=7; 
+L=N+M-1; 
+y=zeros(1,4*N); 
+for k=0:3 
+x1=zeros(1,L); 
+x1(4:10)=x(k*N+1:(k+1)*N); 
+ if k~=0 
+ x1(1:3)=x(k*N-2:k*N); 
+ end 
+ x1k=fft(x1,L); 
+ hk=fft(h,L); 
+ yk=x1k.*hk; 
+ y2=ifft(yk); 
+y(k*N+1:(k+1)*N)=y2(4:10); 
+end 
+subplot(313),stem(n,y,'.');axis([0,30,0,600]);title('用重叠保留法求卷积');

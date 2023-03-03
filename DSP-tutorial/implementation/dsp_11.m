@@ -1,0 +1,31 @@
+clc;clear; 
+N1=3;N2=4; 
+n1=0:N1-1;n2=0:N2-1; 
+x1=zeros(1,N1); 
+x2=zeros(1,N2); 
+x1(2)=1+2; 
+x1(3)=3; 
+x2(1)=4; 
+x2(2)=3+1; 
+x2(3)=1; 
+y1=conv(x1,x2); 
+n01=min(n1)+min(n2); 
+n02=max(n1)+max(n2); 
+ny=[n01:n02]; 
+subplot(421),stem(n1,x1,'.');title('x1(n)'); 
+subplot(422),stem(n2,x2,'.');title('x2(n)'); 
+subplot(423),stem(ny,y1,'.');title('线性卷积'); 
+for N=4:8 
+ n=0:N-1; 
+ x3=zeros(1,N);x4=x3; 
+ x3(n<N1)=x1; 
+ x4(n<N2)=x2; 
+ k=n; 
+ xk1=x3*exp(-j*2*pi/N).^(n'*k); 
+ xk2=x4*exp(-j*2*pi/N).^(n'*k); 
+ yk2=xk1.*xk2; 
+ y2=yk2*(exp(j*2*pi/N)).^(n'*k)/N; 
+ y2=abs(y2); 
+ subplot(4,2,N),stem(k,y2,'.'); 
+ title('圆周卷积'); 
+end

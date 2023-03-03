@@ -1,0 +1,12 @@
+h=[1,2,3,2,1];
+[H,p,w]=dtft(h);
+subplot(221),plot(w/pi,p);grid;
+axis([0,1,-4,4]);
+title('相频特性');
+subplot(222),grpdelay(h,1);
+h=[1,2,3,-3,-2,-1];
+[H,p,w]=dtft(h);
+subplot(223),plot(w/pi,p);grid;
+axis([0,1,-4,4]);
+title('相频特性');
+subplot(224),grpdelay(h,1);

@@ -1,0 +1,37 @@
+n=0:127;
+x=cos(n*pi/36)+cos(1.5*n*pi/36);
+y=fft(x);
+figure;
+subplot(311),stem(n,x,'.');
+title('x(n)');
+subplot(312),stem(n,abs(y),'.');
+title('X(k) 幅度谱');
+subplot(313),stem(n,angle(y),'.');
+title('X(k) 相位谱');
+N=length(n);
+n1=0:N/4-1;
+x1=cos(4*n1*pi/36)+cos(1.5*4*n1*pi/36);
+x1=[x1,zeros(1,N*3/4)];
+y1=fft(x1,128); 
+figure;
+subplot(311),stem(n,x1,'.');
+title('x(4n)');
+subplot(312),stem(n,abs(y1),'.');
+title('对应的X(k) 幅度谱');
+subplot(313),stem(n,angle(y1),'.');
+title('对应的X(k) 相位谱');
+n2=0:(N-1)*4;
+x2=zeros(1,N*4-3);
+for k=0:127 
+x2(k*4+1)=cos(k*pi/36)+cos(1.5*k*pi/36);
+end
+x3=zeros(1,N);
+x3=x2(1:N);
+y2=fft(x3,128);
+figure;
+subplot(311),stem(n,x3,'.');
+title('x(n/4)');
+subplot(312),stem(n,abs(y2),'.');
+title('对应的X(k) 幅度谱');
+subplot(313),stem(n,angle(y2),'.');
+title('对应的X(k) 相位谱');

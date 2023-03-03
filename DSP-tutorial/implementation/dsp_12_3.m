@@ -1,0 +1,29 @@
+nx=0:18; 
+x=3*nx+2; 
+h=[1,2,3,4]; 
+M=length(h); 
+nh=0:M-1; 
+y1=conv(x,h); 
+n01=min(nx)+min(nh); 
+n02=max(nx)+max(nh); 
+ny1=[n01:n02]; 
+subplot(321),stem(nx,x,'.');title('x(n)'); 
+subplot(322),stem(nh,h,'.');title('h(n)'); 
+subplot(312),stem(ny1,y1,'.');title('线性卷积'); 
+N=7; 
+n=0:3*N-1; 
+x=[x,0,0]; 
+ny=0:23; 
+y=zeros(1,length(ny)); 
+for k=0:2 
+ n1=k*N:(k+1)*N-1; 
+ x1=x(find((n>=min(n1))&(n<=max(n1)))); 
+ xk=fft(x1,N+3); 
+ hk=fft(h,N+3); 
+ yk=xk.*hk; 
+ y2=ifft(yk); 
+ y2=abs(y2); 
+y(find((ny>=min(n1))&(ny<=(max(n1)+3))))... 
+ =y(find((ny>=min(n1))&(ny<=(max(n1)+3))))+y2; 
+end 
+subplot(313),stem(ny,y,'.');title('用重叠相加法求卷积');
